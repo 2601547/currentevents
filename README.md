@@ -1,5 +1,5 @@
 # Current Events: Combining Lotka-Volterra Predator-Prey and Advection-Diffusion Models to Study Marine Ecosystems
-## Student 2601547
+### Student 2601547
 ### School of Geographical Sciences, University of Bristol, UK
 
 Abstract
