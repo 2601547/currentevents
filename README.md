@@ -9,4 +9,5 @@
 ## Code
 
 Full code (with comments) relating to this study can be found in the following directory as a Python notebook:
+
 https://github.com/2601547/currentevents/blob/main/1.%20Code/Current%20Events.ipynb
